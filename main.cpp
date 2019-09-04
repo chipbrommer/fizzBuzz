@@ -25,7 +25,7 @@ int main(int argc, const char * argv[])
     //Calling the switch case method
     fizzBuzzSwitch();
     
-    //Spacer between the functions.
+    //Spacer for console output between function runs.
     cout << endl << endl;
     
     //Calling the if else method
