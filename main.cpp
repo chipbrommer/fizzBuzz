@@ -18,7 +18,6 @@ using namespace std;
 int multipleCheck(int, int);
 void fizzBuzzSwitch();
 void fizzBuzzIfElse();
-void fizzBuzzRecursion();
 
 int main(int argc, const char * argv[])
 {
